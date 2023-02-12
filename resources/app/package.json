@@ -1,0 +1,5 @@
+{
+    "name": "Worldblox",
+    "main": "electron-main.js",
+    "version": "0.0.1"
+}
